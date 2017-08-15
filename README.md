@@ -5,14 +5,9 @@
 
 Version 1.0
 
-DOUARD alexandre
+Alexandre Douard
+
 10/08/2017
-
-
-
-
-
-
 
 
 ## 1 Le Projet
@@ -49,7 +44,7 @@ Parmi les projets les plus notoires, on peut citer l’application **DrawSomethi
 
 **DrawSomething** :  https://play.google.com/store/apps/details?id=com.omgpop.dstfree&hl=fr
 
-**Quick, Draw** ! :  https://quickdraw.withgoogle.com/ 
+**Quick, DraW !** :  https://quickdraw.withgoogle.com/ 
 
 
 
@@ -59,9 +54,9 @@ Parmi les projets les plus notoires, on peut citer l’application **DrawSomethi
 
 Cette application comprend : 
 
-- la création d’un compte utilisateur (Connexion via Facebook ou mail) 
+- la création d’un compte utilisateur (Connexion via Facebook ou mail).
 
-- la personnalisation du compte utilisateur (Avatar, ranking, points, possibilité d’inviter des amis)
+- la personnalisation du compte utilisateur (Avatar, ranking, points, possibilité d’inviter des amis).
 
 - deux modes de jeux : solo ou multijoueur. Dans le mode solo, l’utilisateur dessine et dans le mode multijoueur, deux options se présentent à lui : dessiner ou deviner.
 
@@ -85,7 +80,7 @@ Il va pouvoir créer son compte utilisateur à partir de son compte Facebook et 
 
 Elle va créer son compte utilisateur avec son adresse mail et renseigner un pseudo, elle pourra par la suite dans son compte utilisateur importer un avatar. Elle va choisir le mode de jeu multijoueur, deux options lui seront proposées : je dessine ou je devine. Elle choisit de deviner et est mise en connexion avec un autre joueur de la plateforme qui lui aura choisi de dessiner. Elle aura 20 secondes pour deviner le dessin de l’autre joueur qu’elle verra en temps réel. Si elle y parvient, tous les deux auront des points. Si elle échoue, personne ne gagne de point. Si un des deux joueurs abandonne la partie en cours de route, c’est le joueur restant qui obtient des points.
 
-Ce jeu plaît à Kimberley, elle souhaite maintenant dessiner.
+*Ce jeu plaît à Kimberley, elle souhaite maintenant dessiner.*
 
 A la fin de chaque partie de 20 secondes elle ré-accède aux options je dessine ou je devine. Cette fois ci elle choisit de dessiner et la partie se déroule comme susmentionné. Ces parties lui ont fait gagner quelques points, elle souhaite les conserver pour plus tard, ils seront enregistrés dans son compte utilisateur.
 

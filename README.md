@@ -1,7 +1,7 @@
 
 
 
-# Expression des besoins
+## Expression des besoins
 
 Version 1.0
 
@@ -17,7 +17,7 @@ DOUARD alexandre
 
 ## 1 Le Projet
 
-<span style="color:red">**1.1	Objectif**<span>
+**1.1	Objectif**
 
 Ce projet a pour objectif la création d’une application de divertissement de type « Pictionary » comprenant deux modes de jeux :
 
@@ -45,17 +45,17 @@ On peut noter l’existence de nombreuses applications de dessin type « Piction
 
 -Pour le mode solo, intégrer une intelligence artificielle de reconnaissance de dessin à apprentissage progressif (c’est le joueur qui participe à l’amélioration et au développement de l’IA).
 
-Parmi les projets les plus notoires, on peut citer l’application DrawSomething qui rassemble 50 Millions d’utilisateurs dès sa sortie et l’expérience Quick, Draw ! développée par AI. Experiment avec l’aide de Google, qui propose son réseau neuronal (AI) en open-source.
+Parmi les projets les plus notoires, on peut citer l’application **DrawSomething** qui rassemble 50 Millions d’utilisateurs dès sa sortie et l’expérience **Quick, Draw !** développée par AI. Experiment avec l’aide de Google, qui propose son réseau neuronal (AI) en open-source.
 
-DrawSomething :  https://play.google.com/store/apps/details?id=com.omgpop.dstfree&hl=fr
+**DrawSomething** :  https://play.google.com/store/apps/details?id=com.omgpop.dstfree&hl=fr
 
-Quick, Draw ! :  https://quickdraw.withgoogle.com/ 
+**Quick, Draw** ! :  https://quickdraw.withgoogle.com/ 
 
 
 
 ## 2	Le Système
 
-**2.1	Expérience utilisateur**
+### **2.1	Expérience utilisateur**
 
 Cette application comprend : 
 
@@ -71,7 +71,7 @@ Cette application comprend :
 
 Globalement tout sera mis en œuvre pour optimiser l’expérience utilisateur et avoir une appréhension du jeu fluide, intuitive et agréable. Une bonne dose d’humour participerait favorablement à l’expérience.
 
-**2.2	Exemples**
+### **2.2	Exemples**
 
 1er exemple :
 
@@ -89,7 +89,7 @@ Ce jeu plaît à Kimberley, elle souhaite maintenant dessiner.
 
 A la fin de chaque partie de 20 secondes elle ré-accède aux options je dessine ou je devine. Cette fois ci elle choisit de dessiner et la partie se déroule comme susmentionné. Ces parties lui ont fait gagner quelques points, elle souhaite les conserver pour plus tard, ils seront enregistrés dans son compte utilisateur.
 
-**3 Description de l’environnement numérique**
+## 3 Description de l’environnement numérique
 
 Cette application doit être dynamique, elle sera développée en HTML, CSS, PHP et Javascript.
 
@@ -97,7 +97,7 @@ L’hébergement de l’application est à définir.
 
  Les versions technologiques de l’hébergeur devront être compatibles avec l’application.
 
-**3.1	Exigences techniques**
+### **3.1	Exigences techniques**
 
 Cette application a une visée mobile et devra être « responsive » afin de s’adapter à différents types de supports. 
 
@@ -109,7 +109,7 @@ Chrome 5+, Safari 5+, Firefox 5+, Internet Explorer 9+.
 
 La charte graphique est à définir.
 
-**3.2	Volumétrie**
+### **3.2	Volumétrie**
 
 Nous souhaitons pour la phase de test développer une application acceptant jusqu’à 100 utilisateurs en simultané mais au vue des prérogatives, il serait souhaitable d’être rapidement prêt à accueillir le plus grand nombre d’utilisateurs possible.
 

@@ -1,7 +1,7 @@
 
 
 
-#Expression des besoins
+# Expression des besoins
 
 Version 1.0
 
@@ -29,13 +29,13 @@ Un mot est proposé au joueur, il a 20 secondes pour le dessiner et ainsi le fai
 
 La rétribution des points est collaborative et non compétitive.
 
-**1.2	Portée du projet**
+### **1.2	Portée du projet**
 
 Cette application ludique et éducative s’adresse à un public recherchant un divertissement créatif, sur un temps court, rapidement accessible et simple d’utilisation à partir d’un smartphone. Elle s’adresse particulièrement aux nostalgiques des jeux de société en famille.
 
 Elle nécessite une connexion internet.
 
-**1.3	Rappel contextuel**
+### **1.3	Rappel contextuel**
 
 On peut noter l’existence de nombreuses applications de dessin type « Pictionary » dans le secteur du divertissement mobile. Toutefois il s’agit ici de répondre à plusieurs carences observées lors du développement du projet.
 
@@ -53,7 +53,7 @@ Quick, Draw ! :  https://quickdraw.withgoogle.com/
 
 
 
-##2	Le Système
+## 2	Le Système
 
 **2.1	Expérience utilisateur**
 
@@ -84,11 +84,17 @@ Il va pouvoir créer son compte utilisateur à partir de son compte Facebook et 
 *Kimberley joue aussi pour la première fois, mais n’a pas de compte Facebook. Elle souhaiterait jouer avec d’autres joueurs et préférerait deviner un mot plutôt que de dessiner. Après quelques parties, elle se sent prête à dessiner.*
 
 Elle va créer son compte utilisateur avec son adresse mail et renseigner un pseudo, elle pourra par la suite dans son compte utilisateur importer un avatar. Elle va choisir le mode de jeu multijoueur, deux options lui seront proposées : je dessine ou je devine. Elle choisit de deviner et est mise en connexion avec un autre joueur de la plateforme qui lui aura choisi de dessiner. Elle aura 20 secondes pour deviner le dessin de l’autre joueur qu’elle verra en temps réel. Si elle y parvient, tous les deux auront des points. Si elle échoue, personne ne gagne de point. Si un des deux joueurs abandonne la partie en cours de route, c’est le joueur restant qui obtient des points.
-Ce jeu plaît à Kimberley, elle souhaite maintenant dessiner. A la fin de chaque partie de 20 secondes elle ré-accède aux options je dessine ou je devine. Cette fois ci elle choisit de dessiner et la partie se déroule comme susmentionné. Ces parties lui ont fait gagner quelques points, elle souhaite les conserver pour plus tard, ils seront enregistrés dans son compte utilisateur.
-3 Description de l’environnement numérique
+
+Ce jeu plaît à Kimberley, elle souhaite maintenant dessiner.
+
+A la fin de chaque partie de 20 secondes elle ré-accède aux options je dessine ou je devine. Cette fois ci elle choisit de dessiner et la partie se déroule comme susmentionné. Ces parties lui ont fait gagner quelques points, elle souhaite les conserver pour plus tard, ils seront enregistrés dans son compte utilisateur.
+
+**3 Description de l’environnement numérique**
 
 Cette application doit être dynamique, elle sera développée en HTML, CSS, PHP et Javascript.
+
 L’hébergement de l’application est à définir.
+
  Les versions technologiques de l’hébergeur devront être compatibles avec l’application.
 
 **3.1	Exigences techniques**
@@ -107,7 +113,7 @@ La charte graphique est à définir.
 
 Nous souhaitons pour la phase de test développer une application acceptant jusqu’à 100 utilisateurs en simultané mais au vue des prérogatives, il serait souhaitable d’être rapidement prêt à accueillir le plus grand nombre d’utilisateurs possible.
 
-##4	Organisation
+## 4	Organisation
 
 Pour le suivi continu de l’état d’avancement du projet, une méthodologie de type SCRUM sera employée. Le projet sera découpé en boîtes de temps, nommées « sprints » au bout desquelles seront délivré un incrément du produit.
 
